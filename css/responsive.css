@@ -10,6 +10,9 @@
 	.lbox-details h2{
 		font-size: 26px;
 	}
+	.lbox-details h4 {
+		font-size: 26px;
+	}
 }
 /* only small tablets */
 @media (min-width: 768px) and (max-width: 991px) {
@@ -61,6 +64,9 @@
 		font-size: 24px;
 	}
 	.lbox-details h2{
+		font-size: 18px;
+	}
+	.lbox-details h4 {
 		font-size: 18px;
 	}
 	.lbox-details p strong{
